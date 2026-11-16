@@ -2,6 +2,8 @@
 # PROJECT NO. 19: INVENTORY MANAGEMENT SYSTEM
 # Language: Python 3
 # Concepts: Lists, Dictionaries, Functions, CRUD
+# NAME: Tikendra Vishwakarma
+# ERP: RU-26-02474
 # ==========================================================
 
 # All products are stored as dictionaries inside this list.
